@@ -1,3 +1,2 @@
 # expedia
-
-https://www.expedia.com/favicon.ico
+https://phenomenal-pegasus-364028.netlify.app/
